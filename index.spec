@@ -1,6 +1,6 @@
 # -*- mode: python ; coding: utf-8 -*-
 
-from PyInstaller.utils.hooks import collect_data_files
+f rom PyInstaller.utils.hooks import collect_data_files
 
 # Thu thập file dữ liệu của PySide6 và Qt WebEngine
 datas = collect_data_files("PySide6")

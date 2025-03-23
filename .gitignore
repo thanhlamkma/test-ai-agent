@@ -2,7 +2,7 @@
 /build
 /dist
 
-.env_development
+.env
 
 # main.spec
 # index.spec
